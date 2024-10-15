@@ -1,1 +1,20 @@
-
+<body>
+  <ID>247</ID>:
+  <Date>13.06.2024</Date>
+  <Severity>minor</Severity>
+  <Env>WIN 11</Env>
+  <Summary>The page is not scrolled to the trading instrument widget in the menu section [Modalità di trading] (Products and services) after clicking [link] when IT language is selected</Summary>
+  <Steps>1. Navigate to capital.com
+      2. Select any license, eg SCB, country eg. Albania 
+      3. Select IT language 
+      4. Hover over the menu section [Modalità di trading] (Products and services) 
+      5. Click the menu item [Tariffe e commissioni ] (Charges & fees) 
+      6. Scroll down to the “Trading” block 
+      7. Click the [link] link opposite The spread/Overnight funding adjustment</Steps>
+  <Expected_result>The page is scrolled to trading instrument widget</Expected_result>
+  <Actual_result>The page is not scrolled to trading instrument widget<Actual_result>
+  <Attachment>Link</Attachment>
+  <Bug_creator>Borodin Andrey<Bug_creator>
+  <Assigned_to>Alex Tomelo</Assigned_to>
+  <Bug_status>in work</Bug_status>
+</body>
